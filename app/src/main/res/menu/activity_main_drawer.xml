@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_All"
+            android:title="All Pokemon" />
+
+        <item
+            android:id="@+id/nav_Normal"
+            android:title="Normal Pokemon" />
+        <item
+            android:id="@+id/nav_Fighting"
+            android:title="Fighting Pokemon" />
+        <item
+            android:id="@+id/nav_Flying"
+            android:title="Flying Pokemon" />
+        <item
+            android:id="@+id/nav_Poison"
+            android:title="Poison Pokemon" />
+
+        <item
+            android:id="@+id/nav_Ground"
+            android:title="Ground Pokemon" />
+        <item
+            android:id="@+id/nav_Rock"
+            android:title="Rock Pokemon" />
+
+
+        <item
+            android:id="@+id/nav_Bug"
+            android:title="Bug Pokemon" />
+        <item
+            android:id="@+id/nav_Ghost"
+            android:title="Ghost Pokemon" />
+
+        <item
+            android:id="@+id/nav_Steel"
+            android:title="Steel Pokemon" />
+        <item
+            android:id="@+id/nav_Fire"
+            android:title="Fire Pokemon" />
+        <item
+            android:id="@+id/nav_Grass"
+            android:title="Grass Pokemon" />
+        <item
+            android:id="@+id/nav_Water"
+            android:title="Water Pokemon" />
+
+
+        <item
+            android:id="@+id/nav_Electric"
+            android:title="Electric Pokemon" />
+        <item
+            android:id="@+id/nav_Psychic"
+            android:title="Psychic Pokemon" />
+        <item
+            android:id="@+id/nav_Ice"
+            android:title="Ice Pokemon" />
+        <item
+            android:id="@+id/nav_Dragon"
+            android:title="Dragon Pokemon" />
+        <item
+            android:id="@+id/nav_Dark"
+            android:title="Dark Pokemon" />
+        <item
+            android:id="@+id/nav_Fairy"
+            android:title="Fairy Pokemon" />
+    </group>
+
+</menu>

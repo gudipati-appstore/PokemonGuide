@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Pokemon Guide</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="copy_rights">Copyrights</string>
+    <string name="action_about_app">About App</string>
+    <string name="about_app">"
+        * This App is for free and provides good information about pokemon in the gaming world.
+
+        * Learn more about different pokemon types, their weakness and evolution cycle before battling the gyms.
+
+        * Very Simple Design, UI with faster access and greater performance.
+
+        * Frequent and important updates keep your app experience amazing.
+
+        * This app is designed and developed to enhance my android knowledge and experience.
+
+        * All the images are provided by Serbii.
+
+        * This app is not associated or affiliated to ©Niantic or ©PokemonGo and all information available here is unofficial.
+
+        * Please contact me if you need source code or explanation of how this app is implemented.<!-- for very less price-->
+        "</string>
+
+    <string-array name="pokemongo_types">
+        <item>Normal</item>
+        <item>Fighting</item>
+        <item>Flying</item>
+        <item>Poison</item>
+        <item>Ground</item>
+        <item>Rock</item>
+        <item>Bug</item>
+        <item>Ghost</item>
+        <item>Steel</item>
+        <item>Fire</item>
+        <item>Grass</item>
+        <item>Water</item>
+        <item>Electric</item>
+        <item>Psychic</item>
+        <item>Ice</item>
+        <item>Dragon</item>
+        <item>Dark</item>
+        <item>Fairy</item>
+    </string-array>
+</resources>
